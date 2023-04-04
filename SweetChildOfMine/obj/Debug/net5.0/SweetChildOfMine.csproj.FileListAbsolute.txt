@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\bin\Debug\net5.0\SweetChildOfMine.exe
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\bin\Debug\net5.0\SweetChildOfMine.deps.json
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\bin\Debug\net5.0\SweetChildOfMine.runtimeconfig.json
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\bin\Debug\net5.0\SweetChildOfMine.runtimeconfig.dev.json
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\bin\Debug\net5.0\SweetChildOfMine.dll
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\bin\Debug\net5.0\SweetChildOfMine.pdb
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.AssemblyInfo.cs
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.dll
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\refint\SweetChildOfMine.dll
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.pdb
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\SweetChildOfMine.genruntimeconfig.cache
+C:\Users\admin\source\repos\SweetChildOfMine\SweetChildOfMine\obj\Debug\net5.0\ref\SweetChildOfMine.dll
