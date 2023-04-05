@@ -39,7 +39,7 @@ namespace ConsoleApp13
         // do32 fa3 re3 do3 do4 re3 ti3
         static void sweetChild()
         {
-            int oct1 = 0;
+            //int oct1 = 0;
             int oct2 = 1;
             int oct3 = 2;
             int oct4 = 3;
